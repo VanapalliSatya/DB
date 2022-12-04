@@ -1,0 +1,1 @@
+create table employee(name varchar2(20),age number(6));
